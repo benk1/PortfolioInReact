@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/PortfolioInReact/static/css/main.f859bb13.chunk.css",
-    "main.js": "/PortfolioInReact/static/js/main.701d2d0d.chunk.js",
-    "main.js.map": "/PortfolioInReact/static/js/main.701d2d0d.chunk.js.map",
-    "runtime-main.js": "/PortfolioInReact/static/js/runtime-main.41d6f373.js",
-    "runtime-main.js.map": "/PortfolioInReact/static/js/runtime-main.41d6f373.js.map",
-    "static/css/2.0e0e11b0.chunk.css": "/PortfolioInReact/static/css/2.0e0e11b0.chunk.css",
-    "static/js/2.7148f85f.chunk.js": "/PortfolioInReact/static/js/2.7148f85f.chunk.js",
-    "static/js/2.7148f85f.chunk.js.map": "/PortfolioInReact/static/js/2.7148f85f.chunk.js.map",
-    "index.html": "/PortfolioInReact/index.html",
-    "static/css/2.0e0e11b0.chunk.css.map": "/PortfolioInReact/static/css/2.0e0e11b0.chunk.css.map",
-    "static/css/main.f859bb13.chunk.css.map": "/PortfolioInReact/static/css/main.f859bb13.chunk.css.map",
-    "static/js/2.7148f85f.chunk.js.LICENSE.txt": "/PortfolioInReact/static/js/2.7148f85f.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/PortfolioInReact/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/App.css": "/PortfolioInReact/static/media/profile_pic.9db26747.jpg"
+    "main.css": "/portfolioInReact/static/css/main.619e896a.chunk.css",
+    "main.js": "/portfolioInReact/static/js/main.810d2f2a.chunk.js",
+    "main.js.map": "/portfolioInReact/static/js/main.810d2f2a.chunk.js.map",
+    "runtime-main.js": "/portfolioInReact/static/js/runtime-main.77a292c7.js",
+    "runtime-main.js.map": "/portfolioInReact/static/js/runtime-main.77a292c7.js.map",
+    "static/css/2.051b9486.chunk.css": "/portfolioInReact/static/css/2.051b9486.chunk.css",
+    "static/js/2.7148f85f.chunk.js": "/portfolioInReact/static/js/2.7148f85f.chunk.js",
+    "static/js/2.7148f85f.chunk.js.map": "/portfolioInReact/static/js/2.7148f85f.chunk.js.map",
+    "index.html": "/portfolioInReact/index.html",
+    "static/css/2.051b9486.chunk.css.map": "/portfolioInReact/static/css/2.051b9486.chunk.css.map",
+    "static/css/main.619e896a.chunk.css.map": "/portfolioInReact/static/css/main.619e896a.chunk.css.map",
+    "static/js/2.7148f85f.chunk.js.LICENSE.txt": "/portfolioInReact/static/js/2.7148f85f.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/portfolioInReact/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/App.css": "/portfolioInReact/static/media/profile_pic.9db26747.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41d6f373.js",
-    "static/css/2.0e0e11b0.chunk.css",
+    "static/js/runtime-main.77a292c7.js",
+    "static/css/2.051b9486.chunk.css",
     "static/js/2.7148f85f.chunk.js",
-    "static/css/main.f859bb13.chunk.css",
-    "static/js/main.701d2d0d.chunk.js"
+    "static/css/main.619e896a.chunk.css",
+    "static/js/main.810d2f2a.chunk.js"
   ]
 }
