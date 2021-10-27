@@ -1,44 +1,63 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 function NavBar() {
-  return (
-    <div className="header">
-      <header style={headerStyle}>
+	return (
+		<nav className="header">
+			<ul className="headerStyle">
+				<li>
+					<NavLink
+						to="/"
+						style={{ textDecoration: 'none' }}
+						className="linkStyle"
+					>
+						Home
+					</NavLink>
+				</li>
 
-        <Link style={linkStyle} to="/">
-          Home
-        </Link>{" "}
-        |{" "}
-        <Link style={linkStyle} to="/about">
-          About
-        </Link>{" "}
-        |{" "}
-        <Link style={linkStyle} to="/projects">
-          Projects
-        </Link>{" "}
-        |{" "}
-        <Link style={linkStyle} to="/contact">
-          Contact
-        </Link>{" "}
-        {" "}
-        {" "}
-      </header>
-    </div>
-  );
+				<li>
+					<NavLink
+						to="/about"
+						style={{ textDecoration: 'none' }}
+						className="linkStyle"
+					>
+						About
+					</NavLink>
+				</li>
+
+				<li>
+					<NavLink
+						to="/projects"
+						style={{ textDecoration: 'none' }}
+						className="linkStyle"
+					>
+						Projects
+					</NavLink>
+				</li>
+
+				<li>
+					<NavLink
+						to="/contact"
+						style={{ textDecoration: 'none' }}
+						className="linkStyle"
+					>
+						Contact
+					</NavLink>
+				</li>
+			</ul>
+		</nav>
+	);
 }
 
-const headerStyle = {
-  background: "#000000",
-  textAlign: "justify",
-  padding: "10px"
+// const headerStyle = {
+// 	background: '#000000',
+// 	textAlign: 'justify',
+// 	padding: '10px',
+// };
 
-};
-
-const linkStyle = {
-  color: "#fff",
-  textDecoration: "none",
-  fontSize: "20px"
-
-};
+// const linkStyle = {
+// 	color: '#fff',
+// 	textDecoration: 'none',
+// 	fontSize: '20px',
+// };
 export default NavBar;
