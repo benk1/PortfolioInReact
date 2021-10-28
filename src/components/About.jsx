@@ -16,14 +16,15 @@ const About = (props) => {
 					I started the development based on programming with Ruby Language and
 					developed further with Ruby on Rails framework, now looking for a role
 					as a front-end or full-stack developer. I participated in different
-					projects as a trainee at Sibesonke Ltd in Finland, where I trained and
-					work as a software developer using Ruby and Ruby on Rails. I had a
-					great time doing different kind of SoftWare testing including
-					functional and unit testing on the process. I was lucky enough to work
-					with another company called Integrify Oy located in the heart of
-					Helsinki city, where I built most of my projects and developed myself
-					as a person and as a full web-developer, for more about what projects
-					I have been building,please check it out{' '}
+					projects as a trainee at Sibesonke Ltd based in Espoo city in Finland,
+					where I trained and work as a software developer using Ruby and Ruby
+					on Rails. I had a great time working on different software development
+					methodologies including functional and unit testing on the process. I
+					was lucky enough to work with another company called Integrify Oy
+					located in the heart of Helsinki capital city Of Finland, where I
+					built most of my projects and developed myself as a person and as a
+					full web-developer, for more about what projects I have been
+					building,please click the links below and check it out{' '}
 					<a className="about" href="https://github.com/benk1/">
 						here
 					</a>{' '}
@@ -32,11 +33,11 @@ const About = (props) => {
 
 				<p>
 					I have good communication skills and adaptability to different working
-					environments. I am team player,highly driven and motivated person,
-					hardworking, quick to learn with a positive attitude under pressure
-					and this is the one which makes me who i am today. At the moment i am
+					environments. I am team player,highly driven motivated person,
+					hardworking, quick to learn with a positive attitude under pressure.
+					This is one of the reason which makes me who i am today. At the moment i am
 					specializing in front-end development at Integrify oy where I am more
-					working with HTML5, CSS, JAVASCRIPT, ReactJS/Redux and many more
+					working with HTML5, CSS, JAVASCRIPT, ReactJS/Redux,NodeJs and many more
 					web-technologies. I have good knowledge of using GIT(version control
 					system),Mysql,MongoDB databases, good with Regular expressions,
 					experienced with multiple editors e.g Visual studio code as one of my

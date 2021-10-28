@@ -19,10 +19,14 @@ class Projects extends Component {
 								<div>
 									<p>Presentation App</p>
 									<p>
-										This is MERN(Mongodb,Express,Reactjs and Node) full stack
+										This is MERN(Mongodb,Express,Reactjs and NodeJs) full stack
 										Application, user can Manage presenters by adding,editing
 										and deleting presenters from the database and navigate
-										through different pages using react-router.
+										through different pages using react-router.Please register
+										to signIn so you can have more priveledge of viewing and
+										operating more CRUD features.Be patient as It can take few
+										seconds for the data to load from the server to the UI as
+										the site is hosted in Heroku.
 									</p>
 								</div>
 							</a>
@@ -41,7 +45,8 @@ class Projects extends Component {
 
 									<p>WorldCountries</p>
 									<p>
-										This is an App created using ReactJs ,you can visualize
+										This is an App created using ReactJs ,the data are fetched
+										from country API and displayed accordingly,you can visualize
 										Countries around the globe and view specific details about a
 										specific country including their capital city, population of
 										each country, name of a certain country plus their specific
@@ -65,7 +70,9 @@ class Projects extends Component {
 									This is a MERN fUll-stack MovieRental Application, a user can
 									View movies only, signed in users can add and edit
 									movies,while admin can delete a movie. It is built using
-									MongoDb,Express,React and NodeJs.
+									MongoDb,Express,React and NodeJs.Hosted in Heroku. Be patient
+									it can take few seconds to load data from the server to the
+									client.
 								</p>
 							</a>
 						</h5>
@@ -82,9 +89,9 @@ class Projects extends Component {
 								<p>Counter-App</p>
 								<p>
 									A Simple application but powerful application, its purpose is
-									to teach how reacts work in all aspects.it is based on counter
-									where you can increase or decrease counter while other
-									functionalities are taking place in the process.
+									to teach and grasp how reacts work in all aspects.it is based
+									on counter where you can increase or decrease counter while
+									other functionalities are taking place in the process.
 								</p>
 							</a>
 						</h5>
@@ -99,11 +106,11 @@ class Projects extends Component {
 								<p>Reactjs App </p>
 								<p>
 									CAT API<br></br>
-									This is an Application where you can fetch data from an API
-									about your favourite cat, You can view and search where the
-									cat is from originally and see all the important feature about
-									that cat. Upon clicking the Name of the cat you view more
-									details about the cat.
+									This is an Application where you can fetch data from Cat API,
+									You can view and search where the cat is from originally and
+									see all the important feature about that cat. Upon clicking
+									the Name of the cat you can view cat image and more details
+									about your favorite cat.
 								</p>
 							</a>
 						</h5>
@@ -121,7 +128,7 @@ class Projects extends Component {
 									AccountBalanceInReact<br></br>
 									This is Account Balance Implemented using ReactJS, the User
 									can add income or expenses and the program will calculate the
-									balance and dispaly all the transactions accordingly.
+									balance and display all the transactions accordingly.
 								</p>
 							</a>
 						</h5>
@@ -191,8 +198,8 @@ class Projects extends Component {
 								<p>Javascript App </p>
 								<p>
 									TableGenerator<br></br>
-									This is a project where we can build any table with given
-									inputs, the app is implemeneted using vanilla javascript.
+									This is a project where we can build any HTML Table with given
+									inputs, the app is implemented using vanilla javascript.
 								</p>
 							</a>
 						</h5>
