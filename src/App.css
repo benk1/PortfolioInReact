@@ -79,6 +79,20 @@ p {
 	margin: 10px;
 }
 
+.project-1:hover,
+.project-2:hover,
+.project-3:hover,
+.project-4:hover,
+.project-5:hover,
+.project-6:hover,
+.project-7:hover,
+.project-8:hover,
+.project-9:hover,
+.project-10:hover,
+.project-11:hover {
+	transform: scale(1.05);
+}
+
 .project-2 {
 	background-color: #17a2b8;
 }
