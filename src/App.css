@@ -279,6 +279,7 @@ a:hover {
 .headerStyle {
 	display: flex;
 	justify-content: space-evenly;
+
 	background: #000000;
 	text-align: justify;
 	padding: 19px;
@@ -297,4 +298,7 @@ nav {
 }
 .header {
 	height: 58px;
+}
+.github {
+	text-align: center;
 }

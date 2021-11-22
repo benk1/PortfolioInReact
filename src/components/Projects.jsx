@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import 'font-awesome/css/font-awesome.css';
 
-//import { Link } from "react-router-dom";
+// import { Link } from 'react-router-dom';
 
 class Projects extends Component {
 	render() {
@@ -19,14 +19,14 @@ class Projects extends Component {
 								<div>
 									<p>Presentation App</p>
 									<p>
-										This is MERN(Mongodb,Express,Reactjs and NodeJs) full stack
+										This is MERN(Mongodb,Express,ReactJS and NodeJS) full stack
 										Application, user can Manage presenters by adding,editing
 										and deleting presenters from the database and navigate
-										through different pages using react-router.Please register
-										to signIn so you can have more priveledge of viewing and
-										operating more CRUD features.Be patient as It can take few
-										seconds for the data to load from the server to the UI as
-										the site is hosted in Heroku.
+										through different pages using react-router-dom.Please
+										register to signIn or LogIn so you can have more privilege
+										of viewing and operating more CRUD features.Be patient as It
+										can take few seconds for the data to load from the server to
+										the UI as the site is hosted in Heroku.
 									</p>
 								</div>
 							</a>
@@ -51,7 +51,7 @@ class Projects extends Component {
 										specific country including their capital city, population of
 										each country, name of a certain country plus their specific
 										flag attached to each country. you can search each country
-										by Country's name and sort them accordingly
+										by Country's name and sort them accordingly.
 									</p>
 								</div>
 							</a>
@@ -68,11 +68,11 @@ class Projects extends Component {
 								<p>
 									Movie Rental App<br></br>
 									This is a MERN fUll-stack MovieRental Application, a user can
-									View movies only, signed in users can add and edit
-									movies,while admin can delete a movie. It is built using
-									MongoDb,Express,React and NodeJs.Hosted in Heroku. Be patient
-									it can take few seconds to load data from the server to the
-									client.
+									View movies only,It uses JWT for authentication, signed in
+									users can add and edit movies,while only admin can delete a
+									movie. It is built using MongoDb,Express,React and
+									NodeJs.Hosted in Heroku. Be patient it can take few seconds to
+									load data from the server to the client.
 								</p>
 							</a>
 						</h5>
@@ -83,15 +83,17 @@ class Projects extends Component {
 							<a
 								className="project-link"
 								//href="https://github.com/benk1/counter-App"
-								href="https://counterapplication.netlify.app"
+								href="https://hardcore-panini-866022.netlify.app/"
 							>
 								<p>Reactjs App powered by Bootsrap</p>
-								<p>Counter-App</p>
+								<p>Magic Memory Game</p>
 								<p>
-									A Simple application but powerful application, its purpose is
-									to teach and grasp how reacts work in all aspects.it is based
-									on counter where you can increase or decrease counter while
-									other functionalities are taking place in the process.
+									This is designed and implemented using Modern React features.
+									You need to flip two cards to get the matched cards, if you
+									don't get the matched cards keep on trying till you get two
+									cards matched, you will win after getting all the pair cards
+									matched. Below the game it will show you how many turns you
+									have to win the game.
 								</p>
 							</a>
 						</h5>
@@ -144,11 +146,11 @@ class Projects extends Component {
 								<p>Javascript App </p>
 								<p>
 									Gallery<br></br>
-									This is the Gallery integrify stuff, implemented using HTML,
-									CSS and JAVASCRIPT. The Gallery is in slide show form where
-									you can click next arrow or next button to view next or
-									previous photo, you can view the details of a selected photo
-									by clicking details button.
+									This is the Gallery of some Integrify stuff, implemented using
+									HTML, CSS and vanilla JAVASCRIPT. The Gallery is in slide show
+									form where you can click next arrow or next button to view
+									next or previous photo, you can view the details of a selected
+									photo by clicking details button.
 								</p>
 							</a>
 						</h5>
@@ -182,7 +184,7 @@ class Projects extends Component {
 									This is the project where we are able to search any country in
 									the World from a given array, it is implemented using ReactJs.
 									There are two buttons where you can choose to search either by
-									Start With or include buttons.
+									StartWith or include buttons.
 								</p>
 							</a>
 						</h5>
@@ -198,13 +200,19 @@ class Projects extends Component {
 								<p>Javascript App </p>
 								<p>
 									TableGenerator<br></br>
-									This is a project where we can build any HTML Table with given
-									inputs, the app is implemented using vanilla javascript.
+									This is a project where I show case the power of VanillaJS, we
+									can build any HTML Table with given inputs, the App is
+									implemented using pure vanilla javascript.
 								</p>
 							</a>
 						</h5>
 					</div>
 				</div>
+				<p className="github">
+					<a className="about" href="https://github.com/benk1/">
+						More Projects On My Github Page
+					</a>{' '}
+				</p>
 			</div>
 		);
 	}
