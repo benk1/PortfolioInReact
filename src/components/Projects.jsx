@@ -85,7 +85,7 @@ class Projects extends Component {
 								//href="https://github.com/benk1/counter-App"
 								href="https://hardcore-panini-866022.netlify.app/"
 							>
-								<p>Reactjs App powered by Bootsrap</p>
+								<p>Reactjs App </p>
 								<p>Magic Memory Game</p>
 								<p>
 									This is designed and implemented using Modern React features.
@@ -123,14 +123,18 @@ class Projects extends Component {
 							<a
 								className="project-link"
 								//href="https://github.com/benk1/AccountBalanceInReact"
-								href="https://accountbalance.netlify.app"
+								href="https://myfinances-22381.web.app"
 							>
-								<p>Reactjs App</p>
+								<p>Reactjs and Firebase App</p>
 								<p>
-									AccountBalanceInReact<br></br>
-									This is Account Balance Implemented using ReactJS, the User
-									can add income or expenses and the program will calculate the
-									balance and display all the transactions accordingly.
+									Finance Management App<br></br>
+									This is a full stack application, it is implemented by ReactJS
+									and Context API to manage the state in the front-end. At the
+									back-end we take advantage of firebase functions, firebase
+									Database and firebase Authentication. In this app you are able
+									to manage your finances by keep track of what you are
+									consuming.You need to sign-in to see your current transaction
+									and be able to add or delete any current transaction.
 								</p>
 							</a>
 						</h5>
