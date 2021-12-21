@@ -29,10 +29,10 @@ const Home = (props) => {
 							<li>React / Redux</li>
 							<li>Ruby / Ruby on Rails</li>
 							<li>MySQL</li>
-							<li>Flexbox / Bootstrap /Materialize CSS/Reactstrap</li>
+							<li>Flexbox / Bootstrap /Materialize CSS/Reactstrap / react-bootstrap</li>
 							<li>Sass</li>
 							<li>Linux OS</li>
-							<li>Git/Github/Heroku</li>
+							<li>Git/Github/Netlify/Bitbucket/Heroku</li>
 							<li>Regular Expressions</li>
 						</ul>
 						<h4>Check out what I have been up to:</h4>

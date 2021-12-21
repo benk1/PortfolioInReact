@@ -133,8 +133,9 @@ class Projects extends Component {
 									back-end we take advantage of firebase functions, firebase
 									Database and firebase Authentication. In this app you are able
 									to manage your finances by keep track of what you are
-									consuming.You need to sign-in to see your current transaction
-									and be able to add or delete any current transaction.
+									consuming.You need to sign-in or register to see your current
+									transaction and be able to add or delete any current
+									transaction.
 								</p>
 							</a>
 						</h5>
