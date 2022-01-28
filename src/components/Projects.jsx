@@ -7,7 +7,7 @@ class Projects extends Component {
 	render() {
 		return (
 			<div className="big-container">
-				<h3>Code Projects</h3>
+				<h3 style={{ color: 'orange' }}>Code Projects</h3>
 				<div className="projects-container">
 					<div className="project-11">
 						<h5>
